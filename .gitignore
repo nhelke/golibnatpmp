@@ -1,0 +1,4 @@
+*.c
+*.h
+!waitAndReadNATPMPResp.c
+!waitAndReadNATPMPResp.h
